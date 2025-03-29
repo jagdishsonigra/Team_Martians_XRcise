@@ -1,27 +1,26 @@
 # Team_Martians_XRcise
 
 we are Team Martians <br />
-Jagdish Sonigra
-Aditi Bankar 
-Ajit Salunke
-Tanmay Raut
+Jagdish Sonigra <br />
+Aditi Bankar <br />
+Ajit Salunke <br />
+Tanmay Raut <br />
 
-Project Name: XRcise
-Problem Statement & ID: AI Based VR Physiotherapy and
-Fitness Simulator , ID 4
+Project Name: XRcise <br />
+Problem Statement & ID: AI Based VR Physiotherapy and <br />
+Fitness Simulator , ID 4 <br />
 
-**Key Components:**
-•AI Exercise Recommendation– Personalized
-plans
-•Motion Tracking– Ensures correct form
-•Gamified Workouts– Engaging VR exercises
-•Virtual Trainer– Real-time feedback
+**Key Components:** <br />
+•AI Exercise Recommendation– Personalized <br />
+plans <br />
+•Motion Tracking– Ensures correct form <br />
+•Gamified Workouts– Engaging VR exercises <br />
+•Virtual Trainer– Real-time feedback <br />
 
-**Innovation & Uniqueness:**
-•AI + VR for personalized training
-•Gamified physiotherapy experience
-•Cutting-edge motion tracking and AI
-integration
+**Innovation & Uniqueness:** <br />
+•AI + VR for personalized training <br />
+•Gamified physiotherapy experience <br />
+•Cutting-edge motion tracking and AI integration <br />
 
 **Key Features:**
 1. AI-Powered Exercise

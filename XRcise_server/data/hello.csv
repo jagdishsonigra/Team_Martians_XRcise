@@ -1,0 +1,100 @@
+Painlocation,Agegroup,Intensity,Capacity,Exerciserecommendation,Frequency
+Shoulder Pain,Jan-18,Mild,Easy,Shoulder Mobility,Daily
+Shoulder Pain,Jan-18,Mild,Moderate,General Mobility,Weekly
+Shoulder Pain,Jan-18,Mild,Hard,General Mobility,Once in a while
+Shoulder Pain,18-30,Mild,Easy,Shoulder Mobility,Daily
+Shoulder Pain,18-30,Mild,Moderate,General Mobility,Weekly
+Shoulder Pain,18-30,Mild,Hard,General Mobility,Once in a while
+Shoulder Pain,30-50,Moderate,Easy,General Mobility,Weekly
+Shoulder Pain,30-50,Moderate,Moderate,General Mobility,Weekly
+Shoulder Pain,30-50,Moderate,Hard,General Mobility,Once in a while
+Shoulder Pain,50+,Intense,Easy,Shoulder Mobility,Rarely
+Shoulder Pain,50+,Intense,Moderate,General Mobility,Weekly
+Shoulder Pain,50+,Intense,Hard,General Mobility,Once in a while
+Knee Pain,Jan-18,Mild,Easy,General Mobility,Daily
+Knee Pain,Jan-18,Mild,Moderate,General Mobility,Weekly
+Knee Pain,Jan-18,Mild,Hard,Leg Strength,Once in a while
+Knee Pain,18-30,Mild,Easy,General Mobility,Daily
+Knee Pain,18-30,Mild,Moderate,General Mobility,Weekly
+Knee Pain,18-30,Mild,Hard,Leg Strength,Once in a while
+Knee Pain,30-50,Moderate,Easy,General Mobility,Weekly
+Knee Pain,30-50,Moderate,Moderate,General Mobility,Weekly
+Knee Pain,30-50,Moderate,Hard,Leg Strength,Once in a while
+Knee Pain,50+,Intense,Easy,General Mobility,Daily
+Knee Pain,50+,Intense,Moderate,General Mobility,Weekly
+Knee Pain,50+,Intense,Hard,General Mobility,Once in a while
+Osteoporotic (Weak Bones),Jan-18,Mild,Easy,Bone Strength,Weekly
+Osteoporotic (Weak Bones),Jan-18,Mild,Moderate,Basic Strength,Once in a while
+Osteoporotic (Weak Bones),Jan-18,Mild,Hard,Cardio & Strength,Rarely
+Osteoporotic (Weak Bones),18-30,Mild,Easy,Bone Strength,Weekly
+Osteoporotic (Weak Bones),18-30,Mild,Moderate,Basic Strength,Once in a while
+Osteoporotic (Weak Bones),18-30,Mild,Hard,Cardio & Strength,Rarely
+Osteoporotic (Weak Bones),30-50,Moderate,Easy,Bone Strength,Weekly
+Osteoporotic (Weak Bones),30-50,Moderate,Moderate,Basic Strength,Once in a while
+Osteoporotic (Weak Bones),30-50,Moderate,Hard,Cardio & Strength,Rarely
+Osteoporotic (Weak Bones),50+,Intense,Easy,General Mobility,Weekly
+Osteoporotic (Weak Bones),50+,Intense,Moderate,Basic Strength,Once in a while
+Osteoporotic (Weak Bones),50+,Intense,Hard,General Mobility,Rarely
+Neck Pain,Jan-18,Mild,Easy,General Mobility,Daily
+Neck Pain,Jan-18,Mild,Moderate,General Mobility,Weekly
+Neck Pain,Jan-18,Mild,Hard,General Mobility,Once in a while
+Neck Pain,18-30,Moderate,Easy,General Mobility,Daily
+Neck Pain,18-30,Moderate,Moderate,General Mobility,Weekly
+Neck Pain,18-30,Moderate,Hard,General Mobility,Once in a while
+Neck Pain,30-50,Intense,Easy,General Mobility,Weekly
+Neck Pain,30-50,Intense,Moderate,General Mobility,Once in a while
+Neck Pain,30-50,Intense,Hard,General Mobility,Rarely
+Back Pain,Jan-18,Mild,Easy,Lower Back Flexibility,Daily
+Back Pain,Jan-18,Mild,Moderate,Core Stability,Weekly
+Back Pain,Jan-18,Mild,Hard,Lower Body Strength,Once in a while
+Back Pain,18-30,Moderate,Easy,Lower Back Flexibility,Daily
+Back Pain,18-30,Moderate,Moderate,Core Stability,Weekly
+Back Pain,18-30,Moderate,Hard,Lower Body Strength,Once in a while
+Back Pain,30-50,Intense,Easy,Lower Back Flexibility,Daily
+Back Pain,30-50,Intense,Moderate,Core Stability,Weekly
+Back Pain,30-50,Intense,Hard,Lower Body Strength,Once in a while
+Ankle Pain,Jan-18,Mild,Easy,General Mobility,Daily
+Ankle Pain,Jan-18,Mild,Moderate,General Mobility,Weekly
+Ankle Pain,Jan-18,Mild,Hard,General Mobility,Once in a while
+Ankle Pain,18-30,Moderate,Easy,General Mobility,Daily
+Ankle Pain,18-30,Moderate,Moderate,General Mobility,Weekly
+Ankle Pain,18-30,Moderate,Hard,General Mobility,Once in a while
+Ankle Pain,30-50,Intense,Easy,General Mobility,Daily
+Ankle Pain,30-50,Intense,Moderate,General Mobility,Weekly
+Ankle Pain,30-50,Intense,Hard,General Mobility,Once in a while
+Elbow Pain,Jan-18,Mild,Easy,General Mobility,Daily
+Elbow Pain,Jan-18,Mild,Moderate,General Mobility,Weekly
+Elbow Pain,Jan-18,Mild,Hard,General Mobility,Once in a while
+Elbow Pain,18-30,Moderate,Easy,General Mobility,Daily
+Elbow Pain,18-30,Moderate,Moderate,General Mobility,Weekly
+Elbow Pain,18-30,Moderate,Hard,General Mobility,Once in a while
+Elbow Pain,30-50,Intense,Easy,General Mobility,Daily
+Elbow Pain,30-50,Intense,Moderate,General Mobility,Weekly
+Elbow Pain,30-50,Intense,Hard,General Mobility,Once in a while
+PCOS Pain,Jan-18,Mild,Easy,General Mobility,Daily
+PCOS Pain,Jan-18,Mild,Moderate,General Mobility,Weekly
+PCOS Pain,Jan-18,Mild,Hard,General Mobility,Rarely
+PCOS Pain,18-30,Moderate,Easy,General Mobility,Daily
+PCOS Pain,18-30,Moderate,Moderate,General Mobility,Weekly
+PCOS Pain,18-30,Moderate,Hard,General Mobility,Once in a while
+Osteoporotic (Weak Bones),50+,Intense,Easy,General Mobility,Weekly
+Knee Pain,50+,Intense,Easy,General Mobility,Daily
+Osteoporotic (Weak Bones),50+,Intense,Moderate,Basic Strength,Once in a while
+Knee Pain,50+,Intense,Moderate,General Mobility,Weekly
+Osteoporotic (Weak Bones),50+,Intense,Easy,General Mobility,Weekly
+Shoulder Pain,50+,Intense,Hard,General Mobility,Once in a while
+Osteoporotic (Weak Bones),50+,Intense,Easy,General Mobility,Weekly
+Osteoporotic (Weak Bones),50+,Intense,Moderate,Basic Strength,Once in a while
+Knee Pain,50+,Intense,Moderate,General Mobility,Weekly
+Knee Pain,50+,Intense,Easy,General Mobility,Daily
+Osteoporotic (Weak Bones),50+,Intense,Moderate,Basic Strength,Once in a while
+Osteoporotic (Weak Bones),50+,Intense,Moderate,Basic Strength,Once in a while
+Shoulder Pain,50+,Intense,Hard,General Mobility,Once in a while
+Knee Pain,50+,Intense,Hard,General Mobility,Once in a while
+Knee Pain,50+,Intense,Moderate,General Mobility,Weekly
+Shoulder Pain,50+,Intense,Moderate,General Mobility,Weekly
+Osteoporotic (Weak Bones),50+,Intense,Moderate,Basic Strength,Once in a while
+Knee Pain,50+,Intense,Hard,General Mobility,Once in a while
+Shoulder Pain,50+,Intense,Moderate,General Mobility,Weekly
+Knee Pain,50+,Intense,Moderate,General Mobility,Weekly
+Shoulder Pain,50+,Intense,Easy,Shoulder Mobility,Rarely

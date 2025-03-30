@@ -1,0 +1,211 @@
+Painlocation,Agegroup,Intensity,Capacity,Exerciserecommendation,Frequency
+Shoulder Pain,Jan-18,Mild,Easy,Pendulum Stretches & Wall Slides,Daily
+Shoulder Pain,Jan-18,Mild,Moderate,Resistance Band External Rotation,Weekly
+Shoulder Pain,Jan-18,Mild,Hard,Advanced Shoulder Stability Training,Once in a while
+Shoulder Pain,18-30,Mild,Easy,Shoulder Blade Squeezes & Door Stretches,Daily
+Shoulder Pain,18-30,Mild,Moderate,Light Weight Shoulder Press & Rows,Weekly
+Shoulder Pain,18-30,Mild,Hard,Swimming & Modified Push-ups,Once in a while
+Shoulder Pain,30-50,Moderate,Easy,Isometric Shoulder Exercises,Weekly
+Shoulder Pain,30-50,Moderate,Moderate,Controlled ROM Training & Band Work,Weekly
+Shoulder Pain,30-50,Moderate,Hard,Low-Impact Strength Training,Once in a while
+Shoulder Pain,50+,Intense,Easy,Assisted Range of Motion Exercises,Rarely
+Shoulder Pain,50+,Intense,Moderate,Water-Based Shoulder Exercises,Weekly
+Shoulder Pain,50+,Intense,Hard,Modified Resistance Training,Once in a while
+Hip Pain,Jan-18,Mild,Easy,Hip Flexor Stretches & Bridges,Daily
+Hip Pain,Jan-18,Mild,Moderate,Clamshells & Mini Band Walks,Weekly
+Hip Pain,Jan-18,Mild,Hard,Dynamic Hip Strengthening,Once in a while
+Hip Pain,18-30,Moderate,Easy,Standing Hip Exercises & Stretches,Daily
+Hip Pain,18-30,Moderate,Moderate,Resistance Band Hip Work,Weekly
+Hip Pain,18-30,Moderate,Hard,Advanced Hip Stability,Once in a while
+Hip Pain,30-50,Intense,Easy,Seated Hip Mobility,Weekly
+Hip Pain,30-50,Intense,Moderate,Pool-Based Hip Exercises,Weekly
+Hip Pain,30-50,Intense,Hard,Modified Hip Program,Rarely
+Hip Pain,50+,Intense,Easy,Chair-Based Hip Exercises,Daily
+Hip Pain,50+,Intense,Moderate,Gentle Hip Mobility,Weekly
+Hip Pain,50+,Intense,Hard,Supported Hip Strengthening,Rarely
+Wrist Pain,Jan-18,Mild,Easy,Wrist Flexion/Extension Stretches,Daily
+Wrist Pain,Jan-18,Mild,Moderate,Grip Strengthening Exercises,Weekly
+Wrist Pain,Jan-18,Mild,Hard,Advanced Hand Therapy,Once in a while
+Wrist Pain,18-30,Moderate,Easy,Wrist ROM & Nerve Glides,Daily
+Wrist Pain,18-30,Moderate,Moderate,Therapeutic Putty Exercises,Weekly
+Wrist Pain,18-30,Moderate,Hard,Sport-Specific Wrist Training,Once in a while
+Wrist Pain,30-50,Intense,Easy,Gentle Wrist Mobility,Daily
+Wrist Pain,30-50,Intense,Moderate,Modified Hand Strengthening,Weekly
+Wrist Pain,30-50,Intense,Hard,Specialized Wrist Program,Rarely
+TMJ Pain,Jan-18,Mild,Easy,Jaw Relaxation & Stretches,Daily
+TMJ Pain,Jan-18,Mild,Moderate,Controlled Jaw Exercises,Weekly
+TMJ Pain,Jan-18,Mild,Hard,Advanced TMJ Protocol,Rarely
+TMJ Pain,18-30,Moderate,Easy,Gentle Jaw Mobility,Daily
+TMJ Pain,18-30,Moderate,Moderate,Progressive TMJ Exercises,Weekly
+TMJ Pain,18-30,Moderate,Hard,Comprehensive TMJ Program,Rarely
+TMJ Pain,30-50,Intense,Easy,Basic Jaw Relaxation,Daily
+TMJ Pain,30-50,Intense,Moderate,Modified TMJ Protocol,Weekly
+TMJ Pain,30-50,Intense,Hard,Specialized TMJ Therapy,Rarely
+Fibromyalgia,Jan-18,Mild,Easy,Gentle Walking & Stretching,Daily
+Fibromyalgia,Jan-18,Mild,Moderate,Pool Exercises & Tai Chi,Weekly
+Fibromyalgia,Jan-18,Mild,Hard,Modified Strength Training,Rarely
+Fibromyalgia,18-30,Moderate,Easy,Low-Impact Aerobics,Daily
+Fibromyalgia,18-30,Moderate,Moderate,Yoga & Light Resistance,Weekly
+Fibromyalgia,18-30,Moderate,Hard,Gradual Exercise Progression,Rarely
+Fibromyalgia,30-50,Intense,Easy,Chair-Based Movement,Daily
+Fibromyalgia,30-50,Intense,Moderate,Gentle Water Therapy,Weekly
+Fibromyalgia,30-50,Intense,Hard,Individualized Program,Rarely
+Sciatica,Jan-18,Mild,Easy,Nerve Glides & McKenzie Exercises,Daily
+Sciatica,Jan-18,Mild,Moderate,Core Stabilization,Weekly
+Sciatica,Jan-18,Mild,Hard,Advanced Nerve Mobility,Once in a while
+Sciatica,18-30,Moderate,Easy,Neural Mobility Exercises,Daily
+Sciatica,18-30,Moderate,Moderate,Sciatic Nerve Flossing,Weekly
+Sciatica,18-30,Moderate,Hard,Progressive Nerve Program,Once in a while
+Sciatica,30-50,Intense,Easy,Gentle Neural Mobilization,Weekly
+Sciatica,30-50,Intense,Moderate,Modified Nerve Program,Rarely
+Sciatica,30-50,Intense,Hard,Specialized Sciatic Protocol,Rarely
+Plantar Fasciitis,Jan-18,Mild,Easy,Foot Rolling & Toe Stretches,Daily
+Plantar Fasciitis,Jan-18,Mild,Moderate,Arch Strengthening,Weekly
+Plantar Fasciitis,Jan-18,Mild,Hard,Progressive Foot Program,Once in a while
+Plantar Fasciitis,18-30,Moderate,Easy,Foot Mobility Exercises,Daily
+Plantar Fasciitis,18-30,Moderate,Moderate,Heel & Arch Protocol,Weekly
+Plantar Fasciitis,18-30,Moderate,Hard,Advanced Foot Training,Once in a while
+Plantar Fasciitis,30-50,Intense,Easy,Modified Foot Exercises,Daily
+Plantar Fasciitis,30-50,Intense,Moderate,Therapeutic Foot Program,Weekly
+Plantar Fasciitis,30-50,Intense,Hard,Specialized Foot Protocol,Rarely
+Carpal Tunnel,Jan-18,Mild,Easy,Nerve Gliding Exercises,Daily
+Carpal Tunnel,Jan-18,Mild,Moderate,Wrist & Hand Strengthening,Weekly
+Carpal Tunnel,Jan-18,Mild,Hard,Advanced Hand Therapy,Once in a while
+Carpal Tunnel,18-30,Moderate,Easy,Tendon Gliding Exercises,Daily
+Carpal Tunnel,18-30,Moderate,Moderate,Grip Strength Training,Weekly
+Carpal Tunnel,18-30,Moderate,Hard,Comprehensive Hand Program,Once in a while
+Carpal Tunnel,30-50,Intense,Easy,Gentle Hand Mobility,Daily
+Carpal Tunnel,30-50,Intense,Moderate,Modified Hand Exercises,Weekly
+Carpal Tunnel,30-50,Intense,Hard,Specialized Hand Protocol,Rarely
+Arthritis,Jan-18,Mild,Easy,Joint Mobility Exercises,Daily
+Arthritis,Jan-18,Mild,Moderate,Range of Motion Program,Weekly
+Arthritis,Jan-18,Mild,Hard,Progressive Joint Training,Once in a while
+Arthritis,18-30,Moderate,Easy,Low-Impact Joint Mobility,Daily
+Arthritis,18-30,Moderate,Moderate,Joint-Specific Exercises,Weekly
+Arthritis,18-30,Moderate,Hard,Advanced Joint Program,Once in a while
+Arthritis,30-50,Intense,Easy,Modified Joint Exercises,Daily
+Arthritis,30-50,Intense,Moderate,Therapeutic Joint Protocol,Weekly
+Arthritis,30-50,Intense,Hard,Specialized Arthritis Program,Rarely
+Frozen Shoulder,Jan-18,Mild,Easy,Pendulum & ROM Exercises,Daily
+Frozen Shoulder,Jan-18,Mild,Moderate,Active Assisted Stretching,Weekly
+Frozen Shoulder,Jan-18,Mild,Hard,Progressive Mobility Work,Once in a while
+Frozen Shoulder,18-30,Moderate,Easy,Modified Shoulder ROM,Daily
+Frozen Shoulder,18-30,Moderate,Moderate,Shoulder Mobility Protocol,Weekly
+Frozen Shoulder,18-30,Moderate,Hard,Advanced Shoulder Program,Once in a while
+Frozen Shoulder,30-50,Intense,Easy,Gentle Shoulder Exercises,Daily
+Frozen Shoulder,30-50,Intense,Moderate,Modified Shoulder Protocol,Weekly
+Frozen Shoulder,30-50,Intense,Hard,Specialized Mobility Program,Rarely
+Post-Surgery Rehab,Jan-18,Mild,Easy,Basic ROM & Stretching,Daily
+Post-Surgery Rehab,Jan-18,Mild,Moderate,Progressive Strengthening,Weekly
+Post-Surgery Rehab,Jan-18,Mild,Hard,Advanced Recovery Protocol,Once in a while
+Post-Surgery Rehab,18-30,Moderate,Easy,Controlled Movement Pattern,Daily
+Post-Surgery Rehab,18-30,Moderate,Moderate,Functional Strengthening,Weekly
+Post-Surgery Rehab,18-30,Moderate,Hard,Sport-Specific Return,Once in a while
+Post-Surgery Rehab,30-50,Intense,Easy,Modified Recovery Program,Daily
+Post-Surgery Rehab,30-50,Intense,Moderate,Graduated Strengthening,Weekly
+Post-Surgery Rehab,30-50,Intense,Hard,Advanced Rehab Protocol,Rarely
+Shoulder Pain,Jan-18,Mild,Easy,Jumping Jack,Daily
+Shoulder Pain,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Shoulder Pain,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Shoulder Pain,18-30,Mild,Easy,Jumping Jack,Daily
+Shoulder Pain,18-30,Mild,Moderate,Bicep Curl,Weekly
+Shoulder Pain,18-30,Mild,Hard,Squat,Once in a while
+Shoulder Pain,30-50,Moderate,Easy,Jumping Jack,Weekly
+Shoulder Pain,30-50,Moderate,Moderate,Bicep Curl,Weekly
+Shoulder Pain,30-50,Moderate,Hard,Bell Squat,Once in a while
+Shoulder Pain,50+,Intense,Easy,Jumping Jack,Rarely
+Shoulder Pain,50+,Intense,Moderate,Bicep Curl,Weekly
+Shoulder Pain,50+,Intense,Hard,Squat,Once in a while
+Hip Pain,Jan-18,Mild,Easy,Jumping Jack,Daily
+Hip Pain,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Hip Pain,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Hip Pain,18-30,Moderate,Easy,Jumping Jack,Daily
+Hip Pain,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Hip Pain,18-30,Moderate,Hard,Squat,Once in a while
+Hip Pain,30-50,Intense,Easy,Jumping Jack,Weekly
+Hip Pain,30-50,Intense,Moderate,Bicep Curl,Weekly
+Hip Pain,30-50,Intense,Hard,Bell Squat,Rarely
+Hip Pain,50+,Intense,Easy,Jumping Jack,Daily
+Hip Pain,50+,Intense,Moderate,Bicep Curl,Weekly
+Hip Pain,50+,Intense,Hard,Squat,Rarely
+Wrist Pain,Jan-18,Mild,Easy,Jumping Jack,Daily
+Wrist Pain,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Wrist Pain,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Wrist Pain,18-30,Moderate,Easy,Jumping Jack,Daily
+Wrist Pain,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Wrist Pain,18-30,Moderate,Hard,Squat,Once in a while
+Wrist Pain,30-50,Intense,Easy,Jumping Jack,Daily
+Wrist Pain,30-50,Intense,Moderate,Bicep Curl,Weekly
+Wrist Pain,30-50,Intense,Hard,Bell Squat,Rarely
+TMJ Pain,Jan-18,Mild,Easy,Jumping Jack,Daily
+TMJ Pain,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+TMJ Pain,Jan-18,Mild,Hard,Bell Squat,Once in a while
+TMJ Pain,18-30,Moderate,Easy,Jumping Jack,Daily
+TMJ Pain,18-30,Moderate,Moderate,Bicep Curl,Weekly
+TMJ Pain,18-30,Moderate,Hard,Squat,Once in a while
+TMJ Pain,30-50,Intense,Easy,Jumping Jack,Daily
+TMJ Pain,30-50,Intense,Moderate,Bicep Curl,Weekly
+TMJ Pain,30-50,Intense,Hard,Bell Squat,Rarely
+Fibromyalgia,Jan-18,Mild,Easy,Jumping Jack,Daily
+Fibromyalgia,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Fibromyalgia,Jan-18,Mild,Hard,Bell Squat,Rarely
+Fibromyalgia,18-30,Moderate,Easy,Jumping Jack,Daily
+Fibromyalgia,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Fibromyalgia,18-30,Moderate,Hard,Squat,Rarely
+Fibromyalgia,30-50,Intense,Easy,Jumping Jack,Daily
+Fibromyalgia,30-50,Intense,Moderate,Bicep Curl,Weekly
+Fibromyalgia,30-50,Intense,Hard,Bell Squat,Rarely
+Sciatica,Jan-18,Mild,Easy,Jumping Jack,Daily
+Sciatica,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Sciatica,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Sciatica,18-30,Moderate,Easy,Jumping Jack,Daily
+Sciatica,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Sciatica,18-30,Moderate,Hard,Squat,Once in a while
+Sciatica,30-50,Intense,Easy,Jumping Jack,Weekly
+Sciatica,30-50,Intense,Moderate,Bicep Curl,Weekly
+Sciatica,30-50,Intense,Hard,Bell Squat,Rarely
+Plantar Fasciitis,Jan-18,Mild,Easy,Jumping Jack,Daily
+Plantar Fasciitis,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Plantar Fasciitis,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Plantar Fasciitis,18-30,Moderate,Easy,Jumping Jack,Daily
+Plantar Fasciitis,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Plantar Fasciitis,18-30,Moderate,Hard,Squat,Once in a while
+Plantar Fasciitis,30-50,Intense,Easy,Jumping Jack,Daily
+Plantar Fasciitis,30-50,Intense,Moderate,Bicep Curl,Weekly
+Plantar Fasciitis,30-50,Intense,Hard,Bell Squat,Rarely
+Carpal Tunnel,Jan-18,Mild,Easy,Jumping Jack,Daily
+Carpal Tunnel,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Carpal Tunnel,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Carpal Tunnel,18-30,Moderate,Easy,Jumping Jack,Daily
+Carpal Tunnel,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Carpal Tunnel,18-30,Moderate,Hard,Squat,Once in a while
+Carpal Tunnel,30-50,Intense,Easy,Jumping Jack,Daily
+Carpal Tunnel,30-50,Intense,Moderate,Bicep Curl,Weekly
+Carpal Tunnel,30-50,Intense,Hard,Bell Squat,Rarely
+Arthritis,Jan-18,Mild,Easy,Jumping Jack,Daily
+Arthritis,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Arthritis,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Arthritis,18-30,Moderate,Easy,Jumping Jack,Daily
+Arthritis,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Arthritis,18-30,Moderate,Hard,Squat,Once in a while
+Arthritis,30-50,Intense,Easy,Jumping Jack,Daily
+Arthritis,30-50,Intense,Moderate,Bicep Curl,Weekly
+Arthritis,30-50,Intense,Hard,Bell Squat,Rarely
+Frozen Shoulder,Jan-18,Mild,Easy,Jumping Jack,Daily
+Frozen Shoulder,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Frozen Shoulder,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Frozen Shoulder,18-30,Moderate,Easy,Jumping Jack,Daily
+Frozen Shoulder,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Frozen Shoulder,18-30,Moderate,Hard,Squat,Once in a while
+Frozen Shoulder,30-50,Intense,Easy,Jumping Jack,Daily
+Frozen Shoulder,30-50,Intense,Moderate,Bicep Curl,Weekly
+Frozen Shoulder,30-50,Intense,Hard,Bell Squat,Rarely
+Post-Surgery Rehab,Jan-18,Mild,Easy,Jumping Jack,Daily
+Post-Surgery Rehab,Jan-18,Mild,Moderate,Bicep Curl,Weekly
+Post-Surgery Rehab,Jan-18,Mild,Hard,Bell Squat,Once in a while
+Post-Surgery Rehab,18-30,Moderate,Easy,Jumping Jack,Daily
+Post-Surgery Rehab,18-30,Moderate,Moderate,Bicep Curl,Weekly
+Post-Surgery Rehab,18-30,Moderate,Hard,Squat,Once in a while
+Post-Surgery Rehab,30-50,Intense,Easy,Jumping Jack,Daily
+Post-Surgery Rehab,30-50,Intense,Moderate,Bicep Curl,Weekly
+Post-Surgery Rehab,30-50,Intense,Hard,Bell Squat,Rarely
